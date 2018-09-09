@@ -1,3 +1,8 @@
+# OpenCast
+
+OpenCast is an open source fork of FireCast, Sertex's unfinished console. OpenCast is a source port of the main branch and the goal is to finally finish FireCast, and the changes made to OpenCast will eventually be made in the main FireCast repository.
+
+### Original README
 # FireCast
 
 FireCast is the long awaited successor to Sertex's cult classic FireBox.
