@@ -10,7 +10,7 @@ local files = {
 	["FireCast/Apps/firewolf.lua"] = "/FireCast/Apps/firewolf",
 }
 
-local githubUser    = "Sertex-Team"
+local githubUser    = "webmsgr"
 local githubRepo    = "FireCast"
 local githubBranch  = "master"
 
@@ -99,7 +99,7 @@ for k, v in pairs(files) do
 	end
 	filesDownloaded = filesDownloaded + 1
 end
-clear()
+term.clear()
 term.setCursorPos(2, 2)
 print("Press any key to continue.")
 local w, h = term.getSize()
